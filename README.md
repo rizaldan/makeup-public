@@ -4,9 +4,12 @@ The preview of private repository [Makeup Bot](https://github.com/rizaldan/make-
 
 ## [Demo](http://dev.rizdan.com/ochii)
 
-### Screenshot
+### Telegram Bot Screenshot
 
 ![](https://raw.githubusercontent.com/rizaldan/makeup-public/main/telegram-bot.png)
+
+### Web Admin Screenshot
+
 ![](https://raw.githubusercontent.com/rizaldan/makeup-public/main/web-admin.png)
 
 # Make-Up Bot
