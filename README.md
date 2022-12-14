@@ -16,8 +16,6 @@ The preview of private repository [Makeup Bot](https://github.com/rizaldan/make-
 
 Make-up Bot dibuat untuk Telegram Bot yang berguna sebagai sistem pemesanan jasa make-up artist.
 
-## Main Menu
-
  - [x] Help
  - [x] Album
  - [x] Pricelist
@@ -32,8 +30,6 @@ Make-up Bot dibuat untuk Telegram Bot yang berguna sebagai sistem pemesanan jasa
  - [x] Cek Profil
 
 # Makeup Web Admin
-
-## Main Menu
 
 - [x] Mengelola Data Pelanggan
 - [x] Mengelola Data Pesanan
